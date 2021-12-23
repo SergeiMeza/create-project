@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A CLI to bootstrap my new projects",
   "main": "src/index.js",
+  "repository": {
+    "url": "https://www.github.com/SergeiMeza/create-project"
+  },
   "bin": {
     "create-project": "bin/create-project"
   },
